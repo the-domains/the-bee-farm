@@ -1,0 +1,28 @@
+name: The Bee Farm
+favicon: null
+layout_spectrum: 0.5152690813411027
+typography_spectrum: 0.4098589289933443
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.35235491022467613
+  lightness: 0.4358533783815801
+  saturation: 0.4227605590131134
+  rhythmicContrast: 0.21519113332033157
+purpose: []
