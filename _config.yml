@@ -2,6 +2,7 @@ name: The Bee Farm
 favicon: null
 layout_spectrum: 0.50911
 typography_spectrum: 0.5
+title: TheBee.Farm
 cta:
   domain: null
   bucket: null
